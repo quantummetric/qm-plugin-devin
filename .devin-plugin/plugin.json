@@ -1,0 +1,22 @@
+{
+  "name": "quantum-metric",
+  "displayName": "Quantum Metric",
+  "description": "Analyze funnels, errors, friction and session replays in Quantum Metric to find and fix digital experience issues",
+  "shortDescription": "Digital experience analytics and session replay",
+  "setup": {
+    "notice": "Use the name of your Quantum Metric subscription, as it appears in your Quantum Metric URL."
+  },
+  "homepage": "https://www.quantummetric.com",
+  "repository": "https://github.com/quantummetric/qm-plugin-devin",
+  "license": "MIT",
+  "version": "0.2.2",
+  "logo": "logo.png",
+  "keywords": [
+    "Monitoring & Analytics"
+  ],
+  "mcpServers": {
+    "quantum-metric": {
+      "url": "https://api.quantummetric.com/mcp/${QM_SUBSCRIPTION}"
+    }
+  }
+}
