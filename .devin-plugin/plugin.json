@@ -9,7 +9,7 @@
   "homepage": "https://www.quantummetric.com",
   "repository": "https://github.com/quantummetric/qm-plugin-devin",
   "license": "MIT",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "logo": "logo.png",
   "keywords": [
     "Monitoring & Analytics"
